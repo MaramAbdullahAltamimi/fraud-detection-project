@@ -9,20 +9,16 @@ decreases and leads to very high financial losses and a lack of trust between ba
 and individuals.
 
 Project Description:
-• Our project is of type (binary classification) and aims to detect financial fraud,
+1- Our project is of type (binary classification) and aims to detect financial fraud,
 where fraudulent transactions are represented by 1, while 0 represents non-
 fraudulent transactions.
-• All required preprocessing operations were performed, including:
-o Data balancing
-o Feature scaling
-o Encoding
-and other necessary preprocessing steps to prepare the dataset for modeling.
-• The models’ performance is shown using the original, unbalanced test data,
+2- All required preprocessing operations were performed, including: Data balancing ,Feature scaling ,Encoding ,and other necessary preprocessing steps to prepare the dataset for modeling.
+3- The models’ performance is shown using the original, unbalanced test data,
 while training is done on balanced data.
 
 Objectives:
 The main objectives of this project are:
-• Detect fraud by using some robust model to ensure it is handled immediately
+• Detect fraud by using some robust model to ensure it is handled immediately.
 • Enhancing security and access protection by ensuring users’ money and data
 are safe, which increases their trust in financial institutions.
 
